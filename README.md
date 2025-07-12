@@ -13,6 +13,18 @@ A mini web application that enables users to list their skills and request other
 - 💬 Optional messaging/chat integration
 
 
+## 📸 Screenshots
+
+- **Home Page**:
+  
+  ![Home Page](/HomePage.png)  
+  *Description: The home page with the skill search and filter options.*
+
+- **Requests Page**:
+  
+  ![Requests Page](/RequestPage.png)  
+  *Description: The requests page showing a pending skill swap request.*
+
 ## 👥 Team Details
 - Team Leader
   - 👤 Dharm Singh Dagar
