@@ -1,6 +1,6 @@
 # 💡 Skill Swap Platform
 
-A mini web application that enables users to list their skills and request other skills in return. This platform facilitates peer-to-peer learning and collaboration by connecting users who want to exchange skills — like coding for design, writing for video editing, and more.
+A mini web application that enables users to list their skills and request other skills in return.
 
 
 ## 🚀 Features
